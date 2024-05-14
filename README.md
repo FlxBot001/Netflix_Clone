@@ -43,7 +43,7 @@ To run the Netflix Clone Application locally on your machine, follow these steps
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/FlxBot001/netflix_clone.git
 ```
 
 2. **Navigate into the project directory**:
